@@ -3,6 +3,7 @@
 In this project, I am introduced to python modules.
 
 ## Learnt
+
 - How to import functions from another files
 - How to use imported functions
 - How to create a python module
@@ -11,4 +12,6 @@ In this project, I am introduced to python modules.
 - How to use commandline arguments in Python programs
 
 ## Resources
+
 - [Python Documentation](https://docs.python.org/3/tutorial/modules.html)
+  The Task 3
